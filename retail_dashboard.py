@@ -1,6 +1,5 @@
 import pandas as pd
 from sqlalchemy import create_engine
-import psycopg2
 import streamlit as st
 import plotly.express as px
 from sklearn.cluster import KMeans
